@@ -51,6 +51,7 @@
 - [Shell Scripting for DevOps + Hands on projects](https://www.youtube.com/watch?v=zsajhz2_50g&list=PLdpzxOOAlwvIZ7u-gtpX_bozrspUbTQ1S)
 - [Shell Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
 - [Shell Scripting Tutorial | Shell Scripting Crash Course](https://www.youtube.com/watch?v=GtovwKDemnI&t=1658s)
+- [Bash Scripting On Linux](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
 
 ## Containers
 
